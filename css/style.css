@@ -1,7 +1,9 @@
 @import "[Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)";
 body{
 
-  margin-top: 200px;
+  margin-top:200px;
+margin-left: auto;
+margin-right: auto;
   text-align: center;
   background-color: hsl(185, 75%, 39%);
   background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
@@ -11,6 +13,8 @@ background-repeat: no-repeat, no-repeat;
 font-size: 18px;
 font-family: Kumbh Sans;
 font-weight: 400;
+
+
 }
 
 hr{
